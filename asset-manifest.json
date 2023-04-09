@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lifelinelabsubmission/static/css/main.b6bb3e19.css",
+    "main.js": "/Lifelinelabsubmission/static/js/main.cc356e33.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Lifelinelabsubmission/static/js/787.28cb0dcd.chunk.js",
+    "static/media/welcome.svg": "/Lifelinelabsubmission/static/media/welcome.360719db7843188ad5079c18fe453a82.svg",
+    "index.html": "/Lifelinelabsubmission/index.html",
+    "main.b6bb3e19.css.map": "/Lifelinelabsubmission/static/css/main.b6bb3e19.css.map",
+    "main.cc356e33.js.map": "/Lifelinelabsubmission/static/js/main.cc356e33.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Lifelinelabsubmission/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6bb3e19.css",
+    "static/js/main.cc356e33.js"
+  ]
+}
