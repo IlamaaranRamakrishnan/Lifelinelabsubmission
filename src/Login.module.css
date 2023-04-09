@@ -1,0 +1,66 @@
+/* main div of content */
+.mainContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+/* Welcome Text */
+.mainText {
+    font-size: 3rem;
+    font-weight: 700;
+    color: #446EE6;
+}
+
+/* Label Text */
+.labelText {
+    font-size: 2rem;
+
+}
+
+.formHandler{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    
+    
+    padding-left: 30px;
+    padding-bottom: 40px;
+    margin-right: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* Input Textarea */
+.inputFeedback {
+    width: 200px;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 2px solid #446EE6;
+    font-size: 2rem;
+}
+
+
+/* Login Button */
+.loginButton{
+    font-size: 1.5rem;
+    width: 200px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color:#446EE6;
+    border: 2px solid #446EE6;
+    color: #FEFEFE;
+}
+
+.loginButton:hover{
+    background-color: #FEFEFE;
+    color: #446EE6;
+}
+
+.imageEdit{
+    
+    height: 100vh;
+    
+}

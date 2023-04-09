@@ -1,0 +1,95 @@
+
+
+/*edit image position */
+.imageChanges {
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+/* to edit rendered list styling*/
+.data {
+    background: rgba(68, 110, 230, 0.8);
+    border: 2px solid #446EE6;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    list-style: none;
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.splitButton{
+    display: flex;
+    justify-content: space-between;
+}
+
+/*Show Contact button */
+.buttonEditing{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 0.75rem;
+    background: #B0FC38;
+    border: 2px solid #B0FC38;
+    
+}
+
+.buttonEditing:hover{
+    cursor: pointer;
+    background: #7ECE00;
+    border: 2px solid #7ECE00;
+}
+
+/* Unfriend button */
+.buttonEditing2{
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 0.75rem;
+    background:#FF472C;
+    border: 2px solid #FF472C;
+}
+
+
+.buttonEditing2:hover{
+    cursor: pointer;
+    background: #FF2400;
+    border: 2px solid #FF2400;
+}
+
+.paginationButtons {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+
+.sortSpacing{
+    display: flex;
+    flex-direction: column;
+   
+    justify-content: center;
+    align-items: center;
+}
+/* To edit each pagination button*/
+.paginationButtons a {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: 1px solid rgb(49, 49, 209);
+    color: rgb(49, 49, 209);
+    cursor: pointer;
+}
+
+.paginationButtons a:hover {
+    color: white;
+    background-color: rgb(49, 49, 209);
+}
+
+.paginationActive a {
+    color: white;
+    background-color: rgb(49, 49, 209);
+}
+
